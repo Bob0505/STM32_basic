@@ -2,7 +2,7 @@
  * STM32F103C8T6 basic code
  *
  * @author Bob Chen (bob-0505@gotmail.com)
- * @date 1 November 2017
+ * @date 25 November 2017
  * https://github.com/Bob0505/E32-TTL-100
  */
 
@@ -23,7 +23,7 @@ void loop()
   Serial.println("STM32 - loop");
 
   digitalWrite(LED_PIN, HIGH);	// turn the LED on (HIGH is the voltage level)
-  delay(500);
+  delay(300);
   digitalWrite(LED_PIN, LOW);	// turn the LED off by making the voltage LOW
-  delay(500);
+  delay(300);
 }
