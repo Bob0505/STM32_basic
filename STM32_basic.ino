@@ -22,8 +22,8 @@ void loop()
 {
   Serial.println("STM32 - loop");
 
-  digitalWrite(LED_PIN, HIGH);	// turn the LED on (HIGH is the voltage level)
-  delay(300);
-  digitalWrite(LED_PIN, LOW);	// turn the LED off by making the voltage LOW
-  delay(300);
+  digitalWrite(LED_PIN, HIGH);	// turn the LED off by making the voltage HIGH
+  delay(1000);
+  digitalWrite(LED_PIN, LOW);	// turn the LED on  by making the voltage LOW
+  delay(500);
 }

@@ -172,10 +172,10 @@ environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.EXTRA.
 environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.EXTRA.TIME.DTS/value=0
 environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.EXTRA.TIME.LOCAL/delimiter=;
 environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.EXTRA.TIME.LOCAL/operation=replace
-environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.EXTRA.TIME.LOCAL/value=1511737364
+environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.EXTRA.TIME.LOCAL/value=1512830217
 environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.EXTRA.TIME.UTC/delimiter=;
 environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.EXTRA.TIME.UTC/operation=replace
-environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.EXTRA.TIME.UTC/value=1511708564
+environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.EXTRA.TIME.UTC/value=1512801417
 environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.EXTRA.TIME.ZONE/delimiter=;
 environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.EXTRA.TIME.ZONE/operation=replace
 environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.EXTRA.TIME.ZONE/value=28800
@@ -514,7 +514,7 @@ environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.TOOLS.
 environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.TOOLS.SERIAL_UPLOAD.UPLOAD.PARAMS.VERBOSE/value=-d
 environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.TOOLS.SERIAL_UPLOAD.UPLOAD.PATTERN/delimiter=;
 environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.TOOLS.SERIAL_UPLOAD.UPLOAD.PATTERN/operation=replace
-environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.TOOLS.SERIAL_UPLOAD.UPLOAD.PATTERN/value="${A.TOOLS.SERIAL_UPLOAD.PATH}/${A.TOOLS.SERIAL_UPLOAD.CMD} AA " ${A.SERIAL.PORT.FILE} ${A.TOOLS.SERIAL_UPLOAD.UPLOAD.ALTID} ${A.TOOLS.SERIAL_UPLOAD.UPLOAD.USBID} "${A.BUILD.PATH}/${A.BUILD.PROJECT_NAME}.bin"
+environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.TOOLS.SERIAL_UPLOAD.UPLOAD.PATTERN/value="${A.TOOLS.SERIAL_UPLOAD.PATH}/${A.TOOLS.SERIAL_UPLOAD.CMD} ${A.SERIAL.PORT.FILE} ${A.TOOLS.SERIAL_UPLOAD.UPLOAD.ALTID} ${A.TOOLS.SERIAL_UPLOAD.UPLOAD.USBID} ${A.BUILD.PATH}/${A.BUILD.PROJECT_NAME}.bin"
 environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.TOOLS.STLINK_UPLOAD.CMD/delimiter=;
 environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.TOOLS.STLINK_UPLOAD.CMD/operation=replace
 environment/project/it.baeyens.arduino.core.toolChain.release.376842918/A.TOOLS.STLINK_UPLOAD.CMD/value=stlink_upload.bat
