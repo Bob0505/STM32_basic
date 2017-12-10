@@ -41,5 +41,20 @@
 			<type>2</type>
 			<location>C:/Users/bob-0/.arduinocdt/packages/arduino/hardware/stm32/STM32F1/variants/generic_stm32f103c</location>
 		</link>
+		<link>
+			<name>libraries/Adafruit_SSD1306</name>
+			<type>2</type>
+			<location>C:/Users/bob-0/.arduinocdt/packages/arduino/hardware/stm32/STM32F1/libraries/Adafruit_SSD1306</location>
+		</link>
+		<link>
+			<name>libraries/SPI</name>
+			<type>2</type>
+			<location>C:/Users/bob-0/.arduinocdt/packages/arduino/hardware/stm32/STM32F1/libraries/SPI</location>
+		</link>
+		<link>
+			<name>libraries/Wire</name>
+			<type>2</type>
+			<location>C:/Users/bob-0/.arduinocdt/packages/arduino/hardware/stm32/STM32F1/libraries/Wire</location>
+		</link>
 	</linkedResources>
 </projectDescription>
